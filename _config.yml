@@ -1,2 +1,5 @@
-name: Tejas's site
+name: Tejas Ramesh
 title: null
+theme: jekyll-theme-minimal
+sass:
+  style: compressed
