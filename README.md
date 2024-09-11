@@ -1,5 +1,5 @@
 <div style="text-align: center; background-color: beige; padding: 20px; max-width: 800px; margin: 0 auto;">
-  <strong>Hi, I'm Tejas Ramesh! 👋</strong>
+  <h1>Hi, I'm Tejas Ramesh! 👋</h1>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     
   <img src="./img/Tejas Ramesh.jpg" width="150" style="border-radius: 50%; margin-bottom: 20px;">
