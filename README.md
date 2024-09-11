@@ -2,7 +2,7 @@
 
 # Hi, I'm Tejas Ramesh! 👋
 
-<img src="./images/tejas.png" width="150" style="border-radius: 50%;">
+<img src="./img/Tejas Ramesh.jpeg" width="150" style="border-radius: 50%;">
 
 I am a **Masters student** in **Computer Science** at **George Mason University**. My research focuses on **Building Language Models for tackling coding problems in the High-Performance Computing space**, and I previously worked on developing **effective tools for simplifying AI education**.
 
