@@ -1,9 +1,9 @@
 <div style="text-align: center; background-color: beige; padding: 20px; max-width: 800px; margin: 0 auto;">
 
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
-
+  <strong>Hi, I'm Tejas Ramesh! 👋</strong>
   <img src="./img/Tejas Ramesh.jpg" width="150" style="border-radius: 50%; margin-bottom: 20px;">
-    <strong>Hi, I'm Tejas Ramesh! 👋</strong>
+    
   <div style="text-align: center; max-width: 600px; margin-bottom: 20px;">
       I am a <strong>Masters student pursuing Computer Science</strong> at <strong>George Mason University</strong>.My current research focuses on <strong>building Large Language Models for tackling coding problems in the High-Performance Computing space</strong>, and I previously worked on developing <strong>effective tools for simplifying AI education</strong>.
       <br><br>
