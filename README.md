@@ -5,7 +5,7 @@
   <img src="./img/Tejas Ramesh.jpg" width="250" style="border-radius: 50%; margin-bottom: 20px;">
     
   <div style="text-align: center; max-width: 600px; margin-bottom: 20px;">
-      I am a <strong>Masters student pursuing Computer Science</strong> at <strong>George Mason University</strong>.My current research focuses on <strong>building Large Language Models for tackling coding problems in the High-Performance Computing space</strong>, and I previously worked on developing <strong>effective tools for simplifying AI education</strong>.
+      I am a <strong>Masters student pursuing Computer Science</strong> at <strong>George Mason University</strong>.My current research focuses on <strong>building Large Language Models for tackling code generation problems in the High-Performance Computing space</strong>, and I previously worked on developing <strong>effective tools for simplifying AI education</strong>.
       <br><br>
       Feel free to explore my work and get in touch 📫
   </div>
