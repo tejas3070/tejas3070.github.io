@@ -2,7 +2,7 @@
   <h1>Hi, I'm Tejas Ramesh! 👋</h1>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
     
-  <img src="./img/Tejas Ramesh.jpg" width="150" style="border-radius: 50%; margin-bottom: 20px;">
+  <img src="./img/Tejas Ramesh.jpg" width="250" style="border-radius: 50%; margin-bottom: 20px;">
     
   <div style="text-align: center; max-width: 600px; margin-bottom: 20px;">
       I am a <strong>Masters student pursuing Computer Science</strong> at <strong>George Mason University</strong>.My current research focuses on <strong>building Large Language Models for tackling coding problems in the High-Performance Computing space</strong>, and I previously worked on developing <strong>effective tools for simplifying AI education</strong>.
