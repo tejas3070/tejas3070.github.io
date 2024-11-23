@@ -10,6 +10,12 @@
       Feel free to explore my work and get in touch 📫
   </div>
 
+  <div style="margin-bottom: 20px;">
+      <a href="./Resume-Tejas Ramesh.pdf" target="_blank" style="text-decoration: none; color: #007BFF; font-size: 18px;">
+        📄 View My Resume
+      </a>
+  </div>
+
   <div style="display: flex; justify-content: center; gap: 20px;">
       <a href="mailto:tramesh2@gmu.edu"><img src="./img/EM.png" width="48" height="48" /></a>
       <a href="https://github.com/tejas3070"><img src="./img/GH.png" width="48" height="48" /></a>
