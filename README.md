@@ -20,6 +20,7 @@
       <a href="mailto:tramesh2@gmu.edu"><img src="./img/EM.png" width="48" height="48" /></a>
       <a href="https://github.com/tejas3070"><img src="./img/GH.png" width="48" height="48" /></a>
       <a href="https://linkedin.com/in/tejas-ramesh-976203190"><img src="./img/LI.jpeg" width="48" height="48" /></a>
+      <a href="https://scholar.google.com/citations?user=OGNnUHcAAAAJ&hl=en&oi=ao"><img src="./img/LI.jpeg" width="48" height="48" /></a>
   </div>
 
   </div>
